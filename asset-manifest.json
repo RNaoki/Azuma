@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Azuma/static/css/main.cbc44be3.chunk.css",
+    "main.js": "/Azuma/static/js/main.d54365e1.chunk.js",
+    "main.js.map": "/Azuma/static/js/main.d54365e1.chunk.js.map",
+    "runtime-main.js": "/Azuma/static/js/runtime-main.0f0aff40.js",
+    "runtime-main.js.map": "/Azuma/static/js/runtime-main.0f0aff40.js.map",
+    "static/js/2.15a6ad7e.chunk.js": "/Azuma/static/js/2.15a6ad7e.chunk.js",
+    "static/js/2.15a6ad7e.chunk.js.map": "/Azuma/static/js/2.15a6ad7e.chunk.js.map",
+    "static/js/3.05b82532.chunk.js": "/Azuma/static/js/3.05b82532.chunk.js",
+    "static/js/3.05b82532.chunk.js.map": "/Azuma/static/js/3.05b82532.chunk.js.map",
+    "index.html": "/Azuma/index.html",
+    "static/css/main.cbc44be3.chunk.css.map": "/Azuma/static/css/main.cbc44be3.chunk.css.map",
+    "static/js/2.15a6ad7e.chunk.js.LICENSE.txt": "/Azuma/static/js/2.15a6ad7e.chunk.js.LICENSE.txt",
+    "static/media/LOGO-SITE.281caef1.png": "/Azuma/static/media/LOGO-SITE.281caef1.png",
+    "static/media/landing.css": "/Azuma/static/media/UniSansLight.e04830e2.ttf",
+    "static/media/back.2f076cc8.png": "/Azuma/static/media/back.2f076cc8.png",
+    "static/media/bowl.b5e8bdaf.png": "/Azuma/static/media/bowl.b5e8bdaf.png",
+    "static/media/dale.ebe454b7.png": "/Azuma/static/media/dale.ebe454b7.png",
+    "static/media/fichario-fechado.f147abca.png": "/Azuma/static/media/fichario-fechado.f147abca.png",
+    "static/media/jp.738b1493.jpeg": "/Azuma/static/media/jp.738b1493.jpeg",
+    "static/media/menu.ba8ddfb8.png": "/Azuma/static/media/menu.ba8ddfb8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f0aff40.js",
+    "static/js/2.15a6ad7e.chunk.js",
+    "static/css/main.cbc44be3.chunk.css",
+    "static/js/main.d54365e1.chunk.js"
+  ]
+}
