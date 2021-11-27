@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "UniSansLight";
+  src: local("UniSansLight"),
+    url("../fonts/UniSansLight.ttf") format("truetype");
+  font-weight: normal;
+}
+
+a,
+a:visited,
+a:hover,
+a:active {
+  color: inherit;
+}
+
+.gradient {
+  background-image: linear-gradient(rgba(255, 255, 255, 0), #262626);
+  height: 500px;
+  margin-top: -220px;
+}
+
+.box {
+}
+
+.box:hover {
+  box-shadow: 0 0 50px #ccc;
+  background-color: "#ccc";
+}
+
+html {
+  scroll-behavior: smooth;
+}
