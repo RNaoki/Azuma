@@ -2,7 +2,7 @@
   "name": "site_bea",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://rnaoki.github.io/Azuma",
+  "homepage": "http://rnaoki.github.io/Azuma/",
   "dependencies": {
     "@emotion/react": "^11.6.0",
     "@emotion/styled": "^11.6.0",
