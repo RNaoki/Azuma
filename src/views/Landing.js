@@ -321,6 +321,7 @@ export default function Landing() {
           display: "flex",
           flexDirection: "row",
           backgroundColor: "rgb(246, 246, 246)",
+          marginTop: "-10%",
         }}
       >
         <div style={{ width: "50%", marginTop: "8%" }}>
