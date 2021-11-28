@@ -315,7 +315,14 @@ export default function Landing() {
           </a>
         </div>
       </div>
-      <div id="loja" style={{ display: "flex", flexDirection: "row" }}>
+      <div
+        id="loja"
+        style={{
+          display: "flex",
+          flexDirection: "row",
+          backgroundColor: "rgb(246, 246, 246)",
+        }}
+      >
         <div style={{ width: "50%", marginTop: "8%" }}>
           <div style={{ paddingLeft: "30%", marginTop: 120 }}>
             <p
@@ -386,13 +393,13 @@ export default function Landing() {
         </div>
       </div>
       <div
-        id="contato"
+        id="redes"
         style={{
           flex: 1,
           backgroundColor: "#E53231",
           width: "100%",
           marginTop: -50,
-          paddingTop: "6%",
+          paddingTop: "5%",
           paddingBottom: "9%",
         }}
       >
@@ -400,8 +407,8 @@ export default function Landing() {
           <p
             style={{
               textAlign: "center",
-              marginTop: 40,
-              marginBottom: 100,
+              marginTop: 10,
+              marginBottom: 50,
               fontFamily: "UniSansLight",
               fontSize: 50,
               color: "#FAFAFA",
@@ -560,7 +567,7 @@ export default function Landing() {
         </div>
       </div>
       <div
-        id="#contato"
+        id="contato"
         style={{
           backgroundColor: "#2d2d2d",
           height: 300,

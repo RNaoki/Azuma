@@ -46,7 +46,7 @@ export default function Header(props) {
               </Button>
               <Button
                 variant="text"
-                href="#loja"
+                href="#redes"
                 style={{ marginLeft: 60, color: "white" }}
               >
                 Redes
