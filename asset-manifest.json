@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Azuma/static/css/main.cbc44be3.chunk.css",
-    "main.js": "/Azuma/static/js/main.9af58ba0.chunk.js",
-    "main.js.map": "/Azuma/static/js/main.9af58ba0.chunk.js.map",
+    "main.js": "/Azuma/static/js/main.c4131aac.chunk.js",
+    "main.js.map": "/Azuma/static/js/main.c4131aac.chunk.js.map",
     "runtime-main.js": "/Azuma/static/js/runtime-main.0f0aff40.js",
     "runtime-main.js.map": "/Azuma/static/js/runtime-main.0f0aff40.js.map",
     "static/js/2.15a6ad7e.chunk.js": "/Azuma/static/js/2.15a6ad7e.chunk.js",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.0f0aff40.js",
     "static/js/2.15a6ad7e.chunk.js",
     "static/css/main.cbc44be3.chunk.css",
-    "static/js/main.9af58ba0.chunk.js"
+    "static/js/main.c4131aac.chunk.js"
   ]
 }
