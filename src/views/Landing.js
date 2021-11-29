@@ -330,7 +330,7 @@ export default function Landing() {
             <p
               style={{
                 fontFamily: "UniSansLight",
-                fontSize: 60,
+                fontSize: 50,
                 color: "#E53231",
                 fontWeight: 350,
                 width: 600,
