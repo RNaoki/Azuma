@@ -333,7 +333,7 @@ export default function Landing() {
                 fontSize: 50,
                 color: "#E53231",
                 fontWeight: 350,
-                width: 600,
+                width: 500,
               }}
             >
               Compre também seu Fichário de Receitas
@@ -343,7 +343,7 @@ export default function Landing() {
                 fontFamily: "UniSansLight",
                 color: "#191919",
                 fontSize: 40,
-                width: 350,
+                width: 380,
                 marginTop: -20,
               }}
             >
