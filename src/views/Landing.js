@@ -140,7 +140,7 @@ export default function Landing() {
           >
             <p>
               Com o intuito de quebrar paradigmas e um senso comum falho de que
-              comida asiática se baseia apenas em peie cru. O projeto AZUMA vem
+              comida asiática se baseia apenas em peixe cru. O projeto AZUMA vem
               para trazer novas culturas e experiências para o cliente. A
               palavra "Azuma" vem do japônes, que significa "oriente".
             </p>
@@ -322,6 +322,7 @@ export default function Landing() {
           flexDirection: "row",
           backgroundColor: "rgb(246, 246, 246)",
           marginTop: "-10%",
+          paddingBottom: 200,
         }}
       >
         <div style={{ width: "50%", marginTop: "8%" }}>
@@ -331,7 +332,7 @@ export default function Landing() {
                 fontFamily: "UniSansLight",
                 fontSize: 60,
                 color: "#E53231",
-                fontWeight: 400,
+                fontWeight: 350,
                 width: 600,
               }}
             >
@@ -342,7 +343,7 @@ export default function Landing() {
                 fontFamily: "UniSansLight",
                 color: "#191919",
                 fontSize: 40,
-                width: 400,
+                width: 350,
                 marginTop: -20,
               }}
             >
@@ -350,7 +351,7 @@ export default function Landing() {
             </p>
             <Button
               style={{
-                width: "40%",
+                width: 300,
                 height: 50,
                 fontSize: 20,
                 fontWeight: "bold",
@@ -389,7 +390,7 @@ export default function Landing() {
               justifyContent: "center",
             }}
           >
-            <img src={Fichario} alt="logo" style={{ width: 1200 }}></img>
+            <img src={Fichario} alt="logo" style={{ width: 1000 }}></img>
           </div>
         </div>
       </div>
